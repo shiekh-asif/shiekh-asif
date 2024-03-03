@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="80" alt="argocd logo"  />
   <img width="12" />
 
+---
+
 ### Configuration Management:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" alt="bash logo"  />
   <img width="12" />
