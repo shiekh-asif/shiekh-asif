@@ -6,70 +6,102 @@
 
 ---
 
-<div align="left">
-  
-### Operating Systems:
+## 🧠 About Me
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="80" alt="windows8 logo"  />
-  <img width="12" />
-  
----
-  
-### Version Control:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo"  />
-  <img width="12" />
+- 🔧 4+ years in DevOps & Infrastructure Engineering  
+- ⚙️ Working with CI/CD, Containers & Cloud-native tools  
+- ☁️ Experience across AWS, DigitalOcean, Hetzner & Contabo  
+- 🛠️ Strong in Linux, automation, and production-grade systems  
+- 📄 Focused on documentation, security, and scalable architecture  
 
 ---
 
-### Continuous Integration:
-  <img src="https://skillicons.dev/icons?i=jenkins" height="80" alt="jenkins logo"  />
-  <img width="12" />
+## 🧰 Tech Stack
 
-  ---
-  
-### Continuous Deployment:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="80" alt="argocd logo"  />
-  <img width="12" />
+### 🚀 DevOps & CI/CD
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![ArgoCD](https://skillicons.dev/icons?i=argo)
 
 ---
 
-### Configuration Management:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" alt="bash logo"  />
-  <img width="12" />
+### 🐳 Containers & Orchestration
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 ---
 
-### Cloud Technologies:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="80" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="80" alt="amazonwebservices logo" />
-  <img width="12" />
+### ☁️ Cloud Platforms
+![AWS](https://skillicons.dev/icons?i=aws)
+![DigitalOcean](https://skillicons.dev/icons?i=digitalocean)
 
 ---
 
-### Scripting and Languages:
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="80" alt="bash logo"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="80" alt="markdown logo"  />
-  <img width="12" />
+### 🖥️ Systems & Servers
+![Linux](https://skillicons.dev/icons?i=linux)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Windows](https://skillicons.dev/icons?i=windows)
 
 ---
 
-### Containerization and Orchestration:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="80" alt="kubernetes logo"  />
-  <img width="12" />
-  
+### 🔄 Automation & Scripting
+![Bash](https://skillicons.dev/icons?i=bash)
+![Python](https://skillicons.dev/icons?i=python)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+
 ---
 
-<div align="left">
+### 🌐 Web & Hosting
+![NGINX](https://skillicons.dev/icons?i=nginx)
+![Apache](https://skillicons.dev/icons?i=apache)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+
+---
+
+### 📊 Monitoring & Security
+
+![Zabbix](https://img.shields.io/badge/Zabbix-EF3B2D?style=for-the-badge&logo=zabbix&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![ClamAV](https://img.shields.io/badge/ClamAV-008000?style=for-the-badge&logo=clamav&logoColor=white)
+![CSF Firewall](https://img.shields.io/badge/CSF-Firewall-2E7D32?style=for-the-badge)
+
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-Security-4CAF50?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-Directory-795548?style=for-the-badge)
+![Hardening](https://img.shields.io/badge/Server-Hardening-607D8B?style=for-the-badge)
+
+---
+
+## 📌 What I Do
+
+- ⚙️ Build and optimize CI/CD pipelines  
+- 🐳 Deploy and manage containerized applications  
+- ☁️ Design scalable cloud infrastructure  
+- 🔐 Implement server security & monitoring  
+- 📦 Manage hosting environments (WHM/cPanel, NGINX, Apache)  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiekh-asif&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiekh-asif&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammadasifdevops)
+- ✍️ [Medium](https://mohammadasifdevops.medium.com/)
+- 🧑‍💻 [Portfolio](https://mohammadasif.dnsxpansion.com/)
+- 📧 er.m.asif@gmail.com  
+
+---
 
 
 
